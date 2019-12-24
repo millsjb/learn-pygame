@@ -12,3 +12,6 @@ env/
 build/
 dist/
 downloads/
+
+# local settings
+.vscode/settings.json
